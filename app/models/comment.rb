@@ -8,5 +8,5 @@ end
 
 git add .
 git commit -m 'blog'
-git
+git push
 =end
